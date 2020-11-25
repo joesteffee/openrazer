@@ -1,0 +1,1 @@
+cmd_/home/jsteffee/Development/openrazer/driver/razerkraken.mod := { echo  /home/jsteffee/Development/openrazer/driver/razerkraken_driver.o /home/jsteffee/Development/openrazer/driver/razercommon.o; echo; } > /home/jsteffee/Development/openrazer/driver/razerkraken.mod
